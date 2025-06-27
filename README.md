@@ -6,19 +6,18 @@
 
 ## What to do if you've been scammed
 
--   Call your bank or credit card provider immediately
--   Write a message to your local law enforcement agency
--   Report the scam to your country's fraud reporting center
--   Change your passwords and secure your accounts
 -   Talk to someone you trust for support
+-   Call your bank or credit card provider immediately
+-   Contact to your local law enforcement agency - see [portal.onlinewache.polizei.de](https://portal.onlinewache.polizei.de/de/)
+-   If an account is affected, Change your passwords and secure your accounts
 
 ---
 
 ## Helpful Resources
 
-| Resource        | Description                              | Link                                                                           |
-| --------------- | ---------------------------------------- | ------------------------------------------------------------------------------ |
-| ScamAdviser     | Check if a website is legitimate         | [Visit](https://www.scamadviser.com/)                                          |
-| Rescam.org      | AI bot that replies to scammers for you  | [Visit](https://www.rescam.org/)                                               |
-| Action Fraud UK | Report fraud and cybercrime in the UK    | [Visit](https://www.actionfraud.police.uk/)                                    |
-| Europol         | European cybercrime reporting and advice | [Visit](https://www.europol.europa.eu/report-a-crime/report-cybercrime-online) |
+| Resource             | Description                                      | Link                                                                                        |
+| -------------------- | ------------------------------------------------ | ------------------------------------------------------------------------------------------- |
+| Police 'Onlinewache' | Report an online scam to the police              | [Visit](https://portal.onlinewache.polizei.de/de/bw/betrug/)                                |
+| ScamAdviser          | Check if a website or phone number is legitimate | [Visit](https://www.scamadviser.com/)                                                       |
+| ScamAdviser Info     | How and where to report a scam                   | [Visit](https://www.scamadviser.com/de/articles/wie-und-wo-sie-einen-betrug-melden-koennen) |
+| Rescam.org           | AI bot that replies to scammers for you          | [Visit](https://www.rescam.org/)                                                            |
