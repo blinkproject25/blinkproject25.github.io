@@ -1,6 +1,5 @@
 # Blink
 
-> [!NOTE]
 > The Blink platform helps cyber-scam victims securely report fraud, connect to law enforcement, and access support. All in one place. Fast. Caring. GDPR-safe.
 
 ---
